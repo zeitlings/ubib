@@ -18,6 +18,7 @@ The project combines the APIs of Crossref, Semantic Scholar, OpenAlex, OpenLibra
 - CSL formatted citations from identifiers and BibTeX
 - Free-text search for publication discovery
 - Author lookup and publication retrieval
+- Ad hoc citation graph traversal
 - Lightweight BibTeX reference management and citation picker
 
 ## Cheat Sheet
