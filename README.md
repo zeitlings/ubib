@@ -37,6 +37,10 @@ The project combines the APIs of Crossref, Semantic Scholar, OpenAlex, OpenLibra
 - `ubib :b`, `ubib cit`, `ubib bib`
   - bangs: `!a[rticle]`, `!b[ooks]`, `!c[hapter]`, `!na`
 
+## Icon Legend
+
+- !todo
+
 ## Previews
 
 ### Metadata retrieval
