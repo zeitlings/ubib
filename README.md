@@ -38,15 +38,28 @@ The project combines the APIs of Crossref, Semantic Scholar, OpenAlex, OpenLibra
 
 ## Previews
 
+### Metadata retrieval
+
 <img src="assets/img/preview.doi.png" width="564px" />
 <img src="assets/img/preview.rendered.png" width="564px" />
+
+### Publication Discovery
+
 <img src="assets/img/preview.search.png" width="564px" />
 <img src="assets/img/preview.search2.png" width="564px" />
-<img src="assets/img/preview.csl.png" width="564px" />
-<img src="assets/img/preview.config.png" width="564px" />
+<img src="assets/img/preview.search.author.png" width="564px" />
+
+### Reference Management and Citation Picker
+
 <img src="assets/img/preview.bibtex.png" width="564px" />
 <img src="assets/img/preview.cite.latex.png" width="564px" />
 <img src="assets/img/preview.cite.markdown.png" width="564px" />
+
+### Maintenance
+
+<img src="assets/img/preview.csl.png" width="564px" />
+<img src="assets/img/preview.config.png" width="564px" />
+
 
 
 ## Thanks
