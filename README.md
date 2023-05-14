@@ -23,6 +23,8 @@ The project combines the APIs of Crossref, Semantic Scholar, OpenAlex, OpenLibra
 
 ## Cheat Sheet
 
+<details>
+
 - `ubib <identifier>`
 - `ubib <URL>`
 - `ubib <free-text>`
@@ -37,6 +39,8 @@ The project combines the APIs of Crossref, Semantic Scholar, OpenAlex, OpenLibra
 - `ubib :::`, `ubib :c`
 - `ubib :b`, `ubib cit`, `ubib lib`
   - bangs: `!a[rticle]`, `!b[ooks]`, `!c[hapter]`, `!o[ther]`
+
+</details>
 
 ## Documentation
 
