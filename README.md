@@ -80,6 +80,8 @@ You can refine a Crossref search by filtering the query by the author's name.
 
 <img src="assets/img/preview.search.author.cr.png" width="564px" />
 
+The different search modes are accessible through the `ubib :` entry point.
+
 <img src="assets/img/preview.search2.png" width="564px" />
 
 
