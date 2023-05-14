@@ -94,6 +94,10 @@ To configure a citation, action the entry while holding down the __⌘__ modifie
 
 ### CSL Management & Maintenance
 
+New citation styles are retrieved from the [Zotero](https://www.zotero.org/styles/) repository. When configuring styles manually, the identifier is the last path component of the Zotero URL that resolves to a valid CSL-XML document. For example, the identifier for APA 6th edition is `apa-6th-edition` as in `https://www.zotero.org/styles/apa-6th-edition`.
+
+The display name of a CSL used in the workflow is taken from the short title of the corresponding style sheet. The short title should be declared like this: `<title-short>Display Name</title-short>`. By editing or adding this field, you can influence the appearance. The style sheets can be found in *Data Folder > csl*.
+
 <img src="assets/img/preview.csl.png" width="564px" />
 <img src="assets/img/preview.config.png" width="564px" />
 
