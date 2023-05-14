@@ -44,7 +44,7 @@ The project combines the APIs of Crossref, Semantic Scholar, OpenAlex, OpenLibra
 
 <img src="assets/img/ubib.prev.1.gif" width="564px" />
 
-- <kbr>⇧</kbr> to Quicklook preview the formatted citations
+- __⇧__ to Quicklook preview the formatted citations
 
 <details>
   <summary>Example</summary>
@@ -59,20 +59,28 @@ Search is available through Crossref, Semantic Scholar, and OpenAlex. Where avai
 - OpenAlex allows for traversal of referenced works, citing works and *related works* ⌥⇧.
 
 
-| Service          	| Landing-page Preview 	| Abstract 	| TL;DR Digest 	| Open Access Documents 	| Concepts 	| Citation Intent & Context 	|
-|------------------	|:--------------------:	|:--------:	|:------------:	|:---------------------:	|:--------:	|---------------------------	|
+| Service          	| Landing-page Preview 	| Abstract 	| TL;DR Digest 	| Open Access 	| Concepts 	| Citation Intent & Context 	|
+|------------------	|:--------------------:	|:--------:	|:------------:	|:---------------------:	|:--------:	|:-------------------------:	|
 | Crossref         	|           ✔︎          	|     ✔︎    	|              	|                       	|          	|                           	|
-| Semantic Scholar 	|           ✔︎          	|     ✔︎    	|       ✔︎      	|           ✔︎           	|          	| ✔︎                         	|
+| Semantic Scholar 	|           ✔︎          	|     ✔︎    	|       ✔︎      	|           ✔︎           	|          	|             ✔︎             	|
 | Open Alex        	|           ✔︎          	|          	|              	|           ✔︎           	|     ✔︎    	|                           	|
-|                  	|           ⇧          	|    ⌘+L   	|      ⌘+L     	|           ⌘⇧          	|    ⌘+L   	| ⌘+L                       	|
+|                  	|           ⇧          	|    ⌘+L   	|      ⌘+L     	|           ⌘⇧          	|    ⌘+L   	|            ⌘+L            	|
 
+<img src="assets/img/ubib.prev.2.gif" width="564px" />
 
+<img src="assets/img/preview.search.author.png" width="564px" />
+
+<!--
 
 ## Icon Legend
 
 - !todo
 
-## Previews
+-->
+
+## Static Previews
+
+<details>
 
 ### Metadata retrieval
 
@@ -97,8 +105,17 @@ Search is available through Crossref, Semantic Scholar, and OpenAlex. Where avai
 <img src="assets/img/preview.config.png" width="564px" />
 
 
+</details>
+
+
+---
+
 
 ## Thanks
 
 - Cormac Relf for [CiteprocRsKit](https://github.com/cormacrelf/CiteprocRsKit) | CSL processing
 - Max Haertwig for [SwiftyBibtex](https://github.com/MaxHaertwig/SwiftyBibtex) | BibTeX parsing
+
+
+
+Created by [Patrick Sy](https://github.com/zeitlings/ubib) |  [Report Issues](https://github.com/zeitlings/ubib) | [Support the Project](https://ko-fi.com/zeitlings) ❤️
