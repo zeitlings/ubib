@@ -74,22 +74,19 @@ Search is available through Crossref, Semantic Scholar, and OpenAlex. Where avai
 
 You can link your existing bibliography document in the workflow configuration, or select a location where you want to create a new one. New BibTeX references can be quickly added to the library, and managed using the built-in reference manager and citation picker.
 
-While searching the library, you can use `!bangs` to filter by publication type:
-- `!a[rticle]`
-- `!b[ooks]`
-- `!c[hapter]`
-- `!o[ther]`
+While searching the library, you can use `!bangs` to filter by publication type: `!a[rticle]`, `!b[ooks]`, `!c[hapter]`, `!o[ther]`
 
 <img src="assets/img/ubib.prev.3.gif" width="564px" />
 
+The citation style corresponding to the pasted *CSL formatted bibliographic reference* can be freely configured.  
+
 > __Note__  
-> 1. The citation style corresponding to the pasted *CSL formatted bibliographic reference* can be freely configured.  
-> 2. The BibTeX entries may include a key `dvn`, which is intended to contain the DEVONthink item link to the corresponding document. 
+> The BibTeX entries may include a key `dvn`, which is intended to contain the DEVONthink item link to the corresponding document. 
 
 <img src="assets/img/ubib.prev.3.dvn.png" width="564px" />
 
 
-To configure a citation, action the entry while holding down the __⌘__ modifier. Multiple citations can be chained using the __⌥__ modifier. Citations can be configured in either __LaTeX__ or __Pandoc Markdown__.
+To configure a citation, action the entry while holding down the __⌘__ modifier. To chain multiple citations, use the __⌥__ modifier. The citation picker supports two flavours - __LaTeX__ and __Pandoc Markdown__ - to accomodate various writing scenarios.
 
 <img src="assets/img/preview.cite.latex.png" width="564px" />
 <img src="assets/img/preview.cite.markdown.png" width="564px" />
