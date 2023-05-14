@@ -70,6 +70,37 @@ Search is available through Crossref, Semantic Scholar, and OpenAlex. Where avai
 
 <img src="assets/img/preview.search.author.png" width="564px" />
 
+### Reference Management & Citation Picker
+
+You can link your existing bibliography document in the workflow configuration, or select a location where you want to create a new one. New BibTeX references can be quickly added to the library, and managed using the built-in reference manager and citation picker.
+
+While searching the library, you can use `!bangs` to filter by publication type:
+- `!a[rticle]`
+- `!b[ooks]`
+- `!c[hapter]`
+- `!o[ther]`
+
+<img src="assets/img/ubib.prev.3.gif" width="564px" />
+
+> __Note__  
+> 1. The citation style corresponding to the pasted *CSL formatted bibliographic reference* can be freely configured.  
+> 2. The BibTeX entries may include a key `dvn`, which is intended to contain the DEVONthink item link to the corresponding document. 
+
+<img src="assets/img/ubib.prev.3.dvn.png" width="564px" />
+
+
+To configure a citation, action the entry while holding down the __⌘__ modifier. Multiple citations can be chained using the __⌥__ modifier. Citations can be configured in either __LaTeX__ or __Pandoc Markdown__.
+
+<img src="assets/img/preview.cite.latex.png" width="564px" />
+<img src="assets/img/preview.cite.markdown.png" width="564px" />
+
+
+### CSL Management & Maintenance
+
+<img src="assets/img/preview.csl.png" width="564px" />
+<img src="assets/img/preview.config.png" width="564px" />
+
+
 <!--
 
 ## Icon Legend
@@ -77,6 +108,8 @@ Search is available through Crossref, Semantic Scholar, and OpenAlex. Where avai
 - !todo
 
 -->
+
+<!--
 
 ## Static Previews
 
@@ -93,13 +126,13 @@ Search is available through Crossref, Semantic Scholar, and OpenAlex. Where avai
 <img src="assets/img/preview.search2.png" width="564px" />
 <img src="assets/img/preview.search.author.png" width="564px" />
 
-### Reference Management and Citation Picker
+### Reference Management & Citation Picker
 
 <img src="assets/img/preview.bibtex.png" width="564px" />
 <img src="assets/img/preview.cite.latex.png" width="564px" />
 <img src="assets/img/preview.cite.markdown.png" width="564px" />
 
-### Maintenance
+### CSL Management & Maintenance
 
 <img src="assets/img/preview.csl.png" width="564px" />
 <img src="assets/img/preview.config.png" width="564px" />
@@ -107,9 +140,7 @@ Search is available through Crossref, Semantic Scholar, and OpenAlex. Where avai
 
 </details>
 
-
----
-
+-->
 
 ## Thanks
 
@@ -117,5 +148,6 @@ Search is available through Crossref, Semantic Scholar, and OpenAlex. Where avai
 - Max Haertwig for [SwiftyBibtex](https://github.com/MaxHaertwig/SwiftyBibtex) | BibTeX parsing
 
 
+---
 
 Created by [Patrick Sy](https://github.com/zeitlings/ubib) |  [Report Issues](https://github.com/zeitlings/ubib) | [Support the Project](https://ko-fi.com/zeitlings) ❤️
