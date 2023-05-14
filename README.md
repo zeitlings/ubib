@@ -170,4 +170,4 @@ The display name of a CSL used in the workflow is taken from the short title of 
 
 ---
 
-Created by [Patrick Sy](https://github.com/zeitlings/ubib) |  [Report Issues](https://github.com/zeitlings/ubib) | [Support the Project](https://ko-fi.com/zeitlings) ❤️
+Created by [Patrick Sy](https://github.com/zeitlings/ubib) |  [Make Suggestions](https://github.com/zeitlings/ubib) | [Report Issues](https://github.com/zeitlings/ubib) | [Support the Project](https://ko-fi.com/zeitlings) ❤️
