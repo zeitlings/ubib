@@ -24,6 +24,7 @@ The project combines the APIs of Crossref, Semantic Scholar, OpenAlex, OpenLibra
 ## Cheat Sheet
 
 - `ubib <identifier>`
+- `ubib <URL>`
 - `ubib <free-text>`
 - `ubib @article{citekey,...`
 - `ubib pmid:<identifier>`
@@ -34,8 +35,38 @@ The project combines the APIs of Crossref, Semantic Scholar, OpenAlex, OpenLibra
 - `ubib :`
 - `ubib ::`
 - `ubib :::`, `ubib :c`
-- `ubib :b`, `ubib cit`, `ubib bib`
-  - bangs: `!a[rticle]`, `!b[ooks]`, `!c[hapter]`, `!na`
+- `ubib :b`, `ubib cit`, `ubib lib`
+  - bangs: `!a[rticle]`, `!b[ooks]`, `!c[hapter]`, `!o[ther]`
+
+## Documentation
+
+### Metadata retrieval
+
+<img src="assets/img/ubib.prev.1.gif" width="564px" />
+
+- <kbr>⇧</kbr> to Quicklook preview the formatted citations
+
+<details>
+  <summary>Example</summary>
+  <img src="assets/img/preview.rendered.png" width="564px" />
+</details>
+
+### Publication Discovery
+
+Search is available through Crossref, Semantic Scholar, and OpenAlex. Where available, 
+- Crossref allows for traversal of referenced works,
+- Semantic Scholar allows for traversal of referenced works and citing works,
+- OpenAlex allows for traversal of referenced works, citing works and related works.
+
+
+| Service          	| Landing-page Preview 	| Abstract 	| TL;DR Digest 	| Open Access Documents 	|
+|------------------	|:--------------------:	|:--------:	|:------------:	|:---------------------:	|
+| Crossref         	|           ✔︎          	|     ✔︎    	|              	|                       	|
+| Semantic Scholar 	|           ✔︎          	|     ✔︎    	|       ✔︎      	|           ✔︎           	|
+| Open Alex        	|           ✔︎          	|          	|              	|           ✔︎           	|
+|                  	|           ⇧          	|    ⌘+L   	|      ⌘+L     	|           ⌘⇧          	|
+
+
 
 ## Icon Legend
 
