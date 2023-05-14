@@ -10,7 +10,7 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**The input that causes the bug**
+**The input that causes the problem**
 
 
 **To Reproduce**
