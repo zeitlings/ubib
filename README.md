@@ -44,10 +44,10 @@ The project combines the APIs of Crossref, Semantic Scholar, OpenAlex, OpenLibra
 
 <img src="assets/img/ubib.prev.1.gif" width="564px" />
 
-- __⇧__ to Quicklook preview the formatted citations
+- Press __⇧__ to Quicklook preview the formatted citations
 
 <details>
-  <summary>Example</summary>
+  <summary>Quicklook Example</summary>
   <img src="assets/img/preview.rendered.png" width="564px" />
 </details>
 
@@ -68,7 +68,20 @@ Search is available through Crossref, Semantic Scholar, and OpenAlex. Where avai
 
 <img src="assets/img/ubib.prev.2.gif" width="564px" />
 
+
+### Author Discovery & Filtered Search
+
+Besides discovering publications through free-text searches, it's also possible to retrieve works that have been registered under an author's name by looking up the author first (Semantic Scholar and OpenAlex). 
+
+
 <img src="assets/img/preview.search.author.png" width="564px" />
+
+You can refine a Crossref search by filtering the query by the author's name.
+
+<img src="assets/img/preview.search.author.cr.png" width="564px" />
+
+<img src="assets/img/preview.search2.png" width="564px" />
+
 
 ### Reference Management & Citation Picker
 
