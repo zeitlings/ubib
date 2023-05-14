@@ -54,17 +54,17 @@ The project combines the APIs of Crossref, Semantic Scholar, OpenAlex, OpenLibra
 ### Publication Discovery
 
 Search is available through Crossref, Semantic Scholar, and OpenAlex. Where available, 
-- Crossref allows for traversal of referenced works,
-- Semantic Scholar allows for traversal of referenced works and citing works,
-- OpenAlex allows for traversal of referenced works, citing works and related works.
+- Crossref allows for traversal of *referenced works* ⌃,
+- Semantic Scholar allows for traversal of referenced works and *citing works* ⌥,
+- OpenAlex allows for traversal of referenced works, citing works and *related works* ⌥⇧.
 
 
-| Service          	| Landing-page Preview 	| Abstract 	| TL;DR Digest 	| Open Access Documents 	|
-|------------------	|:--------------------:	|:--------:	|:------------:	|:---------------------:	|
-| Crossref         	|           ✔︎          	|     ✔︎    	|              	|                       	|
-| Semantic Scholar 	|           ✔︎          	|     ✔︎    	|       ✔︎      	|           ✔︎           	|
-| Open Alex        	|           ✔︎          	|          	|              	|           ✔︎           	|
-|                  	|           ⇧          	|    ⌘+L   	|      ⌘+L     	|           ⌘⇧          	|
+| Service          	| Landing-page Preview 	| Abstract 	| TL;DR Digest 	| Open Access Documents 	| Concepts 	| Citation Intent & Context 	|
+|------------------	|:--------------------:	|:--------:	|:------------:	|:---------------------:	|:--------:	|---------------------------	|
+| Crossref         	|           ✔︎          	|     ✔︎    	|              	|                       	|          	|                           	|
+| Semantic Scholar 	|           ✔︎          	|     ✔︎    	|       ✔︎      	|           ✔︎           	|          	| ✔︎                         	|
+| Open Alex        	|           ✔︎          	|          	|              	|           ✔︎           	|     ✔︎    	|                           	|
+|                  	|           ⇧          	|    ⌘+L   	|      ⌘+L     	|           ⌘⇧          	|    ⌘+L   	| ⌘+L                       	|
 
 
 
