@@ -46,6 +46,8 @@ The project combines the APIs of Crossref, Semantic Scholar, OpenAlex, OpenLibra
 
 ### Metadata retrieval
 
+The default input picks up on DOI, ISBN-10, ISBN-13, some URLs, pasted BibTeX references, or identifiers prefixed with `pmid`, `pmcid`, `mag`, `arxiv` or `acl`. If natural language is detected, a free-text search is triggered using the default API service that is configured for search. 
+
 <img src="assets/img/ubib.prev.1.gif" width="564px" />
 
 - Press __⇧__ to Quicklook preview the formatted citations
