@@ -102,8 +102,7 @@ While searching the library, you can use `!bangs` to filter by publication type:
 
 <img src="assets/img/ubib.prev.3.gif" width="564px" />
 
-> __Note__  
-> The subtitle field provides cues about extracted information, such as the presence of an associated abstract, keywords, or document links. These cues are represented using symbols, which may not be visible if the [SF Pro](https://developer.apple.com/fonts/) font is not installed on your device. The information can be viewed in Alfred's large type utility by pressing __⌘+L__.
+The subtitle field provides cues about extracted information, such as the presence of an associated abstract, keywords, or document links. These cues are represented using symbols, which may not be visible if the [SF Pro](https://developer.apple.com/fonts/) font is not installed on your device. The information can be viewed in Alfred's large type utility by pressing __⌘+L__.
 
 The citation style corresponding to the pasted *CSL formatted bibliographic reference* can be freely configured.  
 
