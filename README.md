@@ -53,7 +53,7 @@ The project combines the APIs of Crossref, Semantic Scholar, OpenAlex, OpenLibra
 <details>
   <summary>Quicklook Example</summary>
 
-  Citation Styles can be configured within the workflow or the workflow configuration by providing their identifiers:
+  Citation Styles can be configured [within the workflow](https://github.com/zeitlings/ubib#csl-management--maintenance) or the workflow configuration by providing their identifiers:
   - [Zotero](https://www.zotero.org/styles/)
   - Citation Style Language [repository](https://github.com/citation-style-language/styles) (alt: [search](https://github.com/search?q=path%3Achicago+repo%3Acitation-style-language%2Fstyles+path%3A*csl+&type=code))
 
