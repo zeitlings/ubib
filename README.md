@@ -55,9 +55,9 @@ The default input picks up on DOI, ISBN-10, ISBN-13, some URLs, pasted BibTeX re
 - Press __⇧__ to Quicklook preview the formatted citations
 
 <details>
-  <summary>Quicklook Example</summary>
+  <summary>Quicklook Example</summary>  
 
-  > __Note__
+  > __Note__  
   > Citation Styles can be configured [within the workflow](https://github.com/zeitlings/ubib#csl-management--maintenance) or the workflow configuration by providing their identifiers. Those can be retrieved via (a) [Zotero](https://www.zotero.org/styles/), or (b) the Citation Style Language [repository](https://github.com/citation-style-language/styles) (alternative: [Github search](https://github.com/search?q=path%3Achicago+repo%3Acitation-style-language%2Fstyles+path%3A*csl+&type=code)).
 
   <img src="assets/img/preview.rendered.png" width="564px" />
