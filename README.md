@@ -1,10 +1,10 @@
 <div align="center">
 	<h1>
 		<img src="assets/icon.png" width="170" height="170" align='right'></br>
-    <i>µ</i>Bib | MicroBib</br>
-    <a href="https://github.com/zeitlings/ubib/releases"><img src="https://img.shields.io/github/v/release/zeitlings/ubib.svg" alt="GitHub Release"></a>
+    <i>µ</i>Bib | MicroBib
 	</h1>
-<i>Citations, BibTeX, and Research</i> 
+  <i>Citations, BibTeX, and Research</i><br>
+  <a href="https://github.com/zeitlings/ubib/releases"><img src="https://img.shields.io/github/v/release/zeitlings/ubib.svg" alt="GitHub Release"></a>
 </div>
 
 ---
