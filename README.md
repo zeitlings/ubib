@@ -24,6 +24,7 @@ The project combines the APIs of Crossref, Semantic Scholar, OpenAlex, OpenLibra
 ## Cheat Sheet
 
 <details>
+
 <summary>Expand to see the cheat sheet</sumary>
 
 - `ubib <identifier>`
