@@ -23,11 +23,8 @@ The project combines the APIs of Crossref, Semantic Scholar, OpenAlex, OpenLibra
 - Ad hoc citation graph traversal
 - Lightweight BibTeX reference management and citation picker
 
+
 ## Cheat Sheet
-
-<details>
-
-<summary>Expand to see the cheat sheet</summary>
 
 - `ubib <identifier>`
 - `ubib <URL>`
@@ -44,7 +41,6 @@ The project combines the APIs of Crossref, Semantic Scholar, OpenAlex, OpenLibra
 - `ubib :b`, `ubib cit`, `ubib lib`
   - bangs: `!a[rticle]`, `!b[ooks]`, `!c[hapter]`, `!o[ther]`
 
-</details>
 
 ## Documentation
 
