@@ -50,7 +50,7 @@ The default input picks up on DOI, ISBN-10, ISBN-13, some URLs, pasted BibTeX re
 
 <img src="assets/img/ubib.prev.1.gif" width="564px" />
 
-- Press __⇧__ to Quicklook preview the formatted citations
+- <kbd>⌘</kbd><kbd>Y</kbd> (or tap <kbd>__⇧__</kbd>) to _Quicklook_ the formatted citations
 
 <details>
   <summary>Quicklook Example</summary>  
@@ -60,6 +60,13 @@ The default input picks up on DOI, ISBN-10, ISBN-13, some URLs, pasted BibTeX re
 
   <img src="assets/img/preview.rendered.png" width="564px" />
 </details>
+
+### µBib Elicitor
+
+Read DOI from PDF and get its reference via the [Universal Action](https://www.alfredapp.com/help/features/universal-actions/).
+
+<img src="assets/img/preview.elicitor.png" width="564px" />
+
 
 ### Publication Discovery
 
